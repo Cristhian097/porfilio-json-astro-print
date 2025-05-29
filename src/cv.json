@@ -8,11 +8,11 @@
     "url": "https://midu.dev",
     "summary": "Engineer specialized in informatics and robotics. Founder at InnoSphereX, a technology company focused on innovation and tailored solutions in software development, robotics, and artificial intelligence.",
     "location": {
-      "address": "Nariño",
+      "address": "Nari\u00f1o",
       "postalCode": "52008",
       "city": "San Juan de Pasto",
       "countryCode": "CO",
-      "region": "Nariño"
+      "region": "Nari\u00f1o"
     },
     "profiles": [
       {
@@ -33,7 +33,6 @@
       "position": "Web Developer",
       "url": "https://twitch.tv/tecnopolis",
       "startDate": "2021-01-01",
-      "endDate": null,
       "summary": "Participated in web development and broadcasting events as a tech enthusiast.",
       "highlights": [
         "Contributed to web-based interfaces for live medical imaging sessions."
@@ -42,69 +41,39 @@
     {
       "name": "Ade",
       "position": "Lead Frontend Architect",
-      "url": "https://ade.com",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Led the migration from monolithic architecture to micro frontends, implemented performance improvements and agile workflows.",
+      "startDate": "2016-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Led the migration from monolithic architecture to micro frontends and improved performance.",
       "highlights": [
-        "Led frontend refactoring projects for scalable architecture.",
-        "Mentored junior developers and promoted best practices."
+        "Migrated frontend architecture.",
+        "Led technical team in agile practices."
       ]
     },
     {
       "name": "Hubii",
       "position": "Senior Frontend Developer",
-      "url": "https://hubii.com",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Developed and maintained core user interfaces and frontend architecture.",
-      "highlights": [
-        "Contributed to product UI/UX across several major releases."
-      ]
+      "startDate": "2011-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Built and maintained interfaces for various frontend applications."
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Tech Community",
-      "position": "Volunteer Speaker",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Spoke at multiple tech community events promoting programming education.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month' for outreach efforts."
-      ]
-    }
-  ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "Corporación Universitaria Autónoma de Nariño",
-      "url": "https://aunar.edu.co",
-      "area": "Computer Engineering",
+      "institution": "Corporaci\u00f3n Universitaria Aut\u00f3noma de Nari\u00f1o",
+      "area": "Ingenier\u00eda Inform\u00e1tica",
       "studyType": "Bachelor",
       "startDate": "2003-01-01",
       "endDate": "2009-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "AI2202 - Robotics Foundations"
-      ]
+      "score": "4.0"
     }
   ],
-  "awards": [
-    {
-      "title": "Outstanding Contributor",
-      "date": "2014-11-01",
-      "awarder": "Tech Company",
-      "summary": "Recognized for contributions in frontend innovation and leadership."
-    }
-  ],
+  "awards": [],
   "certificates": [
     {
-      "name": "Certified Web Developer",
-      "date": "2021-11-07",
-      "issuer": "Global Tech Institute",
-      "url": "https://certificates.globaltech.org/dev123"
+      "name": "Certificado",
+      "issuer": "Company",
+      "date": "2021-11-07"
     }
   ],
   "publications": [
@@ -119,58 +88,47 @@
   "skills": [
     {
       "name": "HTML",
-      "level": "Expert",
-      "keywords": ["Web Development", "Frontend"]
+      "level": "Expert"
     },
     {
       "name": "CSS",
-      "level": "Expert",
-      "keywords": ["Responsive Design", "Frontend"]
+      "level": "Expert"
     },
     {
       "name": "JavaScript",
-      "level": "Expert",
-      "keywords": ["Frontend", "Backend", "Fullstack"]
+      "level": "Expert"
     },
     {
       "name": "TypeScript",
-      "level": "Advanced",
-      "keywords": ["JavaScript Superset", "Frontend", "Backend"]
-    },
-    {
-      "name": "Tailwind CSS",
-      "level": "Advanced",
-      "keywords": ["Utility-First CSS", "Responsive Design"]
+      "level": "Advanced"
     },
     {
       "name": "React",
-      "level": "Advanced",
-      "keywords": ["UI Components", "Frontend", "JavaScript Library"]
+      "level": "Advanced"
     },
     {
       "name": "Next.js",
-      "level": "Advanced",
-      "keywords": ["SSR", "Static Generation", "React Framework"]
+      "level": "Advanced"
+    },
+    {
+      "name": "Tailwind",
+      "level": "Advanced"
     },
     {
       "name": "Node.js",
-      "level": "Advanced",
-      "keywords": ["Backend", "Server-side JavaScript"]
+      "level": "Advanced"
     },
     {
       "name": "MySQL",
-      "level": "Advanced",
-      "keywords": ["Databases", "SQL"]
+      "level": "Advanced"
     },
     {
       "name": "Git",
-      "level": "Advanced",
-      "keywords": ["Version Control", "Collaboration"]
+      "level": "Advanced"
     },
     {
       "name": "GitHub",
-      "level": "Advanced",
-      "keywords": ["Repositories", "CI/CD", "Open Source"]
+      "level": "Advanced"
     }
   ],
   "languages": [
@@ -183,53 +141,58 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [
-    {
-      "name": "Technology Education",
-      "keywords": ["Workshops", "Open Source", "Youth Training"]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Doe",
-      "reference": "Cristhian is a passionate developer and a great team leader."
-    }
-  ],
+  "interests": [],
+  "references": [],
   "projects": [
     {
       "name": "mars.codes",
       "isActive": true,
       "description": "Interactive programming story to reach Mars.",
-      "highlights": ["Choose your adventure", "In development"],
+      "highlights": [
+        "Choose your adventure",
+        "In development"
+      ],
       "url": "https://mars.codes"
     },
     {
       "name": "AdventJS",
       "isActive": true,
       "description": "JavaScript challenges for every day of December.",
-      "highlights": ["+1M visits", "Multi-language support"],
+      "highlights": [
+        "+1M visits",
+        "Multi-language support"
+      ],
       "url": "https://adventjs.dev"
     },
     {
       "name": "Proyectos Desarrollo",
       "isActive": true,
       "description": "Interactive programming game with challenges and secrets.",
-      "highlights": ["+2000 active users", "Language-independent challenges"],
+      "highlights": [
+        "+2000 active users",
+        "Language-independent challenges"
+      ],
       "url": "https://proyetosdesarrollo.dev"
     },
     {
       "name": "codi.link",
       "isActive": true,
       "description": "HTML/CSS/JS playground for code sharing.",
-      "highlights": ["100k monthly visits", "Community built"],
+      "highlights": [
+        "100k monthly visits",
+        "Community built"
+      ],
       "url": "https://codi.link",
       "github": "https://github.com/Cristhian097/codi.link"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Pruebas T\u00e9cnicas",
       "isActive": true,
       "description": "List of real-world programming interview challenges.",
-      "highlights": ["Free", "500+ community solutions"],
+      "highlights": [
+        "Free",
+        "500+ community solutions"
+      ],
       "url": "https://pruebastecnicas.com",
       "github": "https://github.com/Cristhian097/pruebastecnicas"
     },
@@ -237,7 +200,10 @@
       "name": "Ponencia",
       "isActive": true,
       "description": "Streaming conference for Spanish-speaking devs with top talks.",
-      "highlights": ["+15k tickets", "+50k live viewers"],
+      "highlights": [
+        "+15k tickets",
+        "+50k live viewers"
+      ],
       "url": "https://paginaweb.com"
     }
   ]

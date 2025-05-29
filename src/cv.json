@@ -169,7 +169,7 @@
       "isActive": true,
       "description": "Interactive programming game with challenges and secrets.",
       "highlights": [
-        "+2000 active users",
+        
         "Language-independent challenges"
       ],
       "url": "https://proyetosdesarrollo.dev"
@@ -179,7 +179,6 @@
       "isActive": true,
       "description": "HTML/CSS/JS playground for code sharing.",
       "highlights": [
-        "100k monthly visits",
         "Community built"
       ],
       "url": "https://codi.link",
@@ -190,8 +189,7 @@
       "isActive": true,
       "description": "List of real-world programming interview challenges.",
       "highlights": [
-        "Free",
-        "500+ community solutions"
+        "Free"
       ],
       "url": "https://pruebastecnicas.com",
       "github": "https://github.com/Cristhian097/pruebastecnicas"
@@ -202,8 +200,6 @@
       "description": "Streaming conference for Spanish-speaking devs with top talks.",
       "highlights": [
         "+15k tickets",
-        "+50k live viewers"
-      ],
       "url": "https://paginaweb.com"
     }
   ]

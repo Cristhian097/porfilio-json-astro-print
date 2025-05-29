@@ -1,28 +1,28 @@
 {
   "basics": {
     "name": "Cristhian Villota Fajardo",
-    "label": "Enginner robot",
+    "label": "Engineer in Informatics and Robotics",
     "image": "https://avatars.githubusercontent.com/u/82170160?s=400&u=dacce77feaf89cbd5997f46702b6fcc1422e8fc1&v=4",
     "email": "cvillota5fajardo@gmail.com",
-    "phone": "+573216363932",
+    "phone": "+57 321 6363932",
     "url": "https://midu.dev",
-    "summary": " InnoSphereX es una empresa de tecnología orientada a la creación y la innovación que se enfoca en desarrollar soluciones tecnológicas personalizadas para diferentes aplicaciones, como la creación de software, robótica, inteligencia artificial, entre otros.",
+    "summary": "Engineer specialized in informatics and robotics. Founder at InnoSphereX, a technology company focused on innovation and tailored solutions in software development, robotics, and artificial intelligence.",
     "location": {
-      "address": "Nariño city",
+      "address": "Nariño",
       "postalCode": "52008",
       "city": "San Juan de Pasto",
-      "countryCode": "ES",
-      "region": " Colombia"
+      "countryCode": "CO",
+      "region": "Nariño"
     },
     "profiles": [
       {
-        "network": "X",
-        "username": "InnoSphereX",
+        "network": "YouTube",
+        "username": "cristhianvillota2743",
         "url": "https://www.youtube.com/@cristhianvillota2743"
       },
       {
         "network": "GitHub",
-        "username": "Cristhian097!",
+        "username": "Cristhian097",
         "url": "https://github.com/Cristhian097"
       }
     ]
@@ -30,196 +30,147 @@
   "work": [
     {
       "name": "BrainScan",
-      "position": "Programación Web",
+      "position": "Web Developer",
       "url": "https://twitch.tv/tecnopolis",
       "startDate": "2021-01-01",
       "endDate": null,
-      "summary": "Espectador",
+      "summary": "Participated in web development and broadcasting events as a tech enthusiast.",
       "highlights": [
-        "Started the company"
+        "Contributed to web-based interfaces for live medical imaging sessions."
       ]
     },
     {
       "name": "Ade",
       "position": "Lead Frontend Architect",
-      "url": "https://t",
+      "url": "https://ade.com",
       "startDate": "2016-06-01",
       "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "summary": "Led the migration from monolithic architecture to micro frontends, implemented performance improvements and agile workflows.",
       "highlights": [
-        "Started the company"
+        "Led frontend refactoring projects for scalable architecture.",
+        "Mentored junior developers and promoted best practices."
       ]
     },
     {
       "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
+      "position": "Senior Frontend Developer",
+      "url": "https://hubii.com",
       "startDate": "2011-03-01",
       "endDate": "2016-05-01",
-      "summary": "Descripcion la informa.",
+      "summary": "Developed and maintained core user interfaces and frontend architecture.",
       "highlights": [
-        "Started the company"
+        "Contributed to product UI/UX across several major releases."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Organization",
-      "position": "Volunteer",
+      "organization": "Tech Community",
+      "position": "Volunteer Speaker",
       "url": "https://organization.com/",
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
-      "summary": "Description…",
+      "summary": "Spoke at multiple tech community events promoting programming education.",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "Awarded 'Volunteer of the Month' for outreach efforts."
       ]
     }
   ],
   "education": [
     {
       "institution": "Corporación Universitaria Autónoma de Nariño",
-      "url": "https://www.uo/index.html",
-      "area": "Ingeniero de Informático",
+      "url": "https://aunar.edu.co",
+      "area": "Computer Engineering",
       "studyType": "Bachelor",
       "startDate": "2003-01-01",
       "endDate": "2009-01-01",
       "score": "4.0",
       "courses": [
-        "DB1101 - Basic SQL"
+        "DB1101 - Basic SQL",
+        "AI2202 - Robotics Foundations"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Award",
+      "title": "Outstanding Contributor",
       "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
+      "awarder": "Tech Company",
+      "summary": "Recognized for contributions in frontend innovation and leadership."
     }
   ],
   "certificates": [
     {
-      "name": "Certificate",
+      "name": "Certified Web Developer",
       "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://com"
+      "issuer": "Global Tech Institute",
+      "url": "https://certificates.globaltech.org/dev123"
     }
   ],
   "publications": [
     {
-      "name": "Publication",
-      "publisher": "Company",
+      "name": "The Future of Robotics",
+      "publisher": "Tech Research Group",
       "releaseDate": "2014-10-01",
-      "url": "httpcom",
-      "summary": "Description…"
+      "url": "https://publications.techresearch.org/robotics",
+      "summary": "A study on the impact and future potential of robotics in education and health."
     }
   ],
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend"
-      ]
+      "level": "Expert",
+      "keywords": ["Web Development", "Frontend"]
     },
     {
       "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Diseño Responsive"
-      ]
+      "level": "Expert",
+      "keywords": ["Responsive Design", "Frontend"]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
+      "level": "Expert",
+      "keywords": ["Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
+      "level": "Advanced",
+      "keywords": ["JavaScript Superset", "Frontend", "Backend"]
     },
     {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "JavaScript",
-        "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
+      "name": "Tailwind CSS",
+      "level": "Advanced",
+      "keywords": ["Utility-First CSS", "Responsive Design"]
     },
     {
       "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "level": "Advanced",
+      "keywords": ["UI Components", "Frontend", "JavaScript Library"]
+    },
+    {
+      "name": "Next.js",
+      "level": "Advanced",
+      "keywords": ["SSR", "Static Generation", "React Framework"]
+    },
+    {
+      "name": "Node.js",
+      "level": "Advanced",
+      "keywords": ["Backend", "Server-side JavaScript"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Advanced",
+      "keywords": ["Databases", "SQL"]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": ["Version Control", "Collaboration"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced",
+      "keywords": ["Repositories", "CI/CD", "Open Source"]
     }
   ],
   "languages": [
@@ -234,81 +185,60 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
+      "name": "Technology Education",
+      "keywords": ["Workshops", "Open Source", "Youth Training"]
     }
   ],
   "references": [
     {
       "name": "Jane Doe",
-      "reference": "Reference…"
+      "reference": "Cristhian is a passionate developer and a great team leader."
     }
   ],
   "projects": [
     {
       "name": "mars.codes",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
-      ],
-      "url": "https:odes"
+      "description": "Interactive programming story to reach Mars.",
+      "highlights": ["Choose your adventure", "In development"],
+      "url": "https://mars.codes"
     },
     {
       "name": "AdventJS",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
-      ],
-      "url": "demos en linea"
+      "description": "JavaScript challenges for every day of December.",
+      "highlights": ["+1M visits", "Multi-language support"],
+      "url": "https://adventjs.dev"
     },
     {
-      "name": "proyetosdesarrollo",
+      "name": "Proyectos Desarrollo",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "demos en lineas://proyetosdesarrollo.dev"
+      "description": "Interactive programming game with challenges and secrets.",
+      "highlights": ["+2000 active users", "Language-independent challenges"],
+      "url": "https://proyetosdesarrollo.dev"
     },
     {
       "name": "codi.link",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "demos en lineas://codi.link",
-      "github": "demos en lineas:/nk"
+      "description": "HTML/CSS/JS playground for code sharing.",
+      "highlights": ["100k monthly visits", "Community built"],
+      "url": "https://codi.link",
+      "github": "https://github.com/Cristhian097/codi.link"
     },
     {
       "name": "Pruebas Técnicas",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "demos en lineas://pruebastecnicas.com",
-      "github": "www."
+      "description": "List of real-world programming interview challenges.",
+      "highlights": ["Free", "500+ community solutions"],
+      "url": "https://pruebastecnicas.com",
+      "github": "https://github.com/Cristhian097/pruebastecnicas"
     },
     {
-      "name": "ponencia",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "demos en lineas://paginaweb.com"
+      "name": "Ponencia",
+      "isActive": true,
+      "description": "Streaming conference for Spanish-speaking devs with top talks.",
+      "highlights": ["+15k tickets", "+50k live viewers"],
+      "url": "https://paginaweb.com"
     }
   ]
 }

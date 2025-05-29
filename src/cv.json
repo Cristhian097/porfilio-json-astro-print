@@ -8,11 +8,11 @@
     "url": "https://midu.dev",
     "summary": "Engineer specialized in informatics and robotics. Founder at InnoSphereX, a technology company focused on innovation and tailored solutions in software development, robotics, and artificial intelligence.",
     "location": {
-      "address": "Nari\u00f1o",
+      "address": "Nariño",
       "postalCode": "52008",
       "city": "San Juan de Pasto",
       "countryCode": "CO",
-      "region": "Nari\u00f1o"
+      "region": "Nariño"
     },
     "profiles": [
       {
@@ -52,19 +52,19 @@
     {
       "name": "Hubii",
       "position": "Senior Frontend Developer",
-      "startDate": "2016-02-01",
-      "endDate": "2021-12-01",
+      "startDate": "2016-01-01",
+      "endDate": "2021-01-01",
       "summary": "Built and maintained interfaces for various frontend applications."
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "Corporaci\u00f3n Universitaria Aut\u00f3noma de Nari\u00f1o",
-      "area": "Ingenier\u00eda Inform\u00e1tica",
+      "institution": "Corporación Universitaria Autónoma de Nariño",
+      "area": "Ingeniería Informática",
       "studyType": "Bachelor",
-      "startDate": "2016-02-01",
-      "endDate": "2021-12-01",
+      "startDate": "2016-01-01",
+      "endDate": "2021-01-01",
       "score": "4.0"
     }
   ],
@@ -78,11 +78,11 @@
   ],
   "publications": [
     {
-      "name": "The Future of Robotics",
-      "publisher": "Tech Research Group",
-      "releaseDate": "2014-10-01",
-      "url": "https://publications.techresearch.org/robotics",
-      "summary": "A study on the impact and future potential of robotics in education and health."
+      "name": "Ponencia en comunidad hispanohablante",
+      "publisher": "InnoSphereX",
+      "releaseDate": "2024-08-01",
+      "url": "https://proyectandofuturo.netlify.app",
+      "summary": "Charla en vivo con más de 50k espectadores sobre retos de programación, frontend moderno y cultura Dev."
     }
   ],
   "skills": [
@@ -147,60 +147,74 @@
     {
       "name": "mars.codes",
       "isActive": true,
-      "description": "Interactive programming story to reach Mars.",
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "startDate": "2023-10-01",
       "highlights": [
-        "Choose your adventure",
-        "In development"
+        "Elige tu propia aventura",
+        "Tecnologías: JavaScript, React, HTML, CSS",
+        "En desarrollo continuo por InnoSphereX"
       ],
-      "url": "https://mars.codes"
+      "url": "https://proyectandofuturo.netlify.app/#mars"
     },
     {
       "name": "AdventJS",
       "isActive": true,
-      "description": "JavaScript challenges for every day of December.",
+      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "startDate": "2022-12-01",
       "highlights": [
-        "+1M visits",
-        "Multi-language support"
+        "+1 millón de visitas",
+        "Multidioma",
+        "JavaScript & TypeScript",
+        "Uso de TailwindCSS y Next.js"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://proyectandofuturo.netlify.app/#adventjs"
     },
     {
-      "name": "Proyectos Desarrollo",
+      "name": "proyectosdesarrollo",
       "isActive": true,
-      "description": "Interactive programming game with challenges and secrets.",
+      "description": "Juego interactivo de programación con retos y secretos",
+      "startDate": "2023-03-01",
       "highlights": [
-        
-        "Language-independent challenges"
+        "+2000 usuarios activos",
+        "Retos para cualquier lenguaje",
+        "Gamificación e IA básica"
       ],
-      "url": "https://proyetosdesarrollo.dev"
+      "url": "https://proyectandofuturo.netlify.app/#proyectos"
     },
     {
       "name": "codi.link",
       "isActive": true,
-      "description": "HTML/CSS/JS playground for code sharing.",
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "startDate": "2022-06-01",
       "highlights": [
-        "Community built"
+        "100k visitas al mes",
+        "Desarrollado con comunidad",
+        "Stack: React, Tailwind, Node.js"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/Cristhian097/codi.link"
+      "url": "https://proyectandofuturo.netlify.app/#codi"
     },
     {
-      "name": "Pruebas T\u00e9cnicas",
+      "name": "Pruebas Técnicas",
       "isActive": true,
-      "description": "List of real-world programming interview challenges.",
+      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "startDate": "2021-09-01",
       "highlights": [
-        "Free"
+        "100% gratuito",
+        "+500 soluciones de la comunidad",
+        "Tecnologías: HTML, JavaScript, GitHub Pages"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/Cristhian097/pruebastecnicas"
+      "url": "https://proyectandofuturo.netlify.app/#pruebas"
     },
     {
       "name": "Ponencia",
-      "isActive": true,
-      "description": "Streaming conference for Spanish-speaking devs with top talks.",
+      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "startDate": "2024-08-01",
       "highlights": [
-        "+15k tickets",
-      "url": "https://paginaweb.com"
+        "+15k tickets repartidos",
+        "+50k espectadores en directo",
+        "Streaming desde YouTube y Twitch"
+      ],
+      "url": "https://proyectandofuturo.netlify.app/#ponencia"
     }
   ]
 }
